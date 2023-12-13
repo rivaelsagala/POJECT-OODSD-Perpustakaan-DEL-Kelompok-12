@@ -6,7 +6,7 @@ package perpustakaan.del;
 
 /**
  *
- * @author RIVAEL S S
+ * @author Kelompok 12
  */
 public interface Notifications {
     void display();

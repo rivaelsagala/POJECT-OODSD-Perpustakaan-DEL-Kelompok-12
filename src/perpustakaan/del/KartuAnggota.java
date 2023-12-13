@@ -6,7 +6,7 @@ package perpustakaan.del;
 
 /**
  *
- * @author RIVAEL S S
+ * @author Kelompok 12
  */
 public class KartuAnggota extends Anggota{
     public Role role = Role.anggota;
