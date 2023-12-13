@@ -1,0 +1,2 @@
+12345|sagala|rivael|12345|Anggota|perpustakaan.del.KartuAnggota@7aec35a|null
+123|sa|sa|123|Anggota|perpustakaan.del.KartuAnggota@108c4c35|null

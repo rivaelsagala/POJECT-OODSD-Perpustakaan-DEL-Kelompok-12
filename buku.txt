@@ -1,0 +1,11 @@
+Fiersa Besari|Media Kita|Jejak Langkah|Novel
+Pramoedya Anantatoer|Gramedia|Bumi Manusia|Novel
+Purcell|Wiley|Calculus|Matematika
+Faqihza|Gramedia|Belajar C++|Programming
+Faqihza|Gramedia|Belajar Python|Programming
+Faqihza|Gramedia|Belajar Java|Programming
+Ucup Surucup|Kompas|Cara Sukses Mencari belut Di Sawah|Wiraswasta
+ser|ser|ser|ser
+sam|sam|sam|sam
+sa|sa|as|as
+wq|wq|wq|wq
