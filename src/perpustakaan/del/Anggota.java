@@ -31,6 +31,7 @@ public class Anggota {
     private String password;
     Role role = Role.anggota;
     Buku bukuperpustakaan;
+    History history;
     Feedback feedback;
 
     KartuAnggota kartuAnggota;
@@ -285,7 +286,7 @@ public class Anggota {
                     System.out.println("\n===================");
                     System.out.println("RIWAYAT PINJAM BUKU");
                     System.out.println("===================");
-                    tampilkanRiwayat();
+                    history.tampilkanRiwayat();
                     clearScreen();
                     break;
                 case 7:
@@ -545,20 +546,7 @@ public class Anggota {
         }while (isLanjutkan == true);
     }
 
-    public void tampilkanRiwayat(){
-        clearScreen();
-        System.out.println("===== RIWAYAT PEMINJAMAN =====\n");
-        int num = 0;
-        for (Buku bukuPinjam : bukuPinjam){
-            ++num;
-            System.out.println("Peminjaman Ke-"+num);
-            System.out.println("Pada               : "+bukuPinjam.getTanggalPinjam());
-            System.out.println("Batas Pengembalian : "+bukuPinjam.getTanggalKembali()+ " 23:59:59");
-            System.out.println("Nomor Buku         : "+bukuPinjam.getNomorBuku());
-            System.out.println("Judul              : "+bukuPinjam.getJudul());
-            System.out.println("");
-        }
-    }
+    
 
     public void update() {
     clearScreen();
