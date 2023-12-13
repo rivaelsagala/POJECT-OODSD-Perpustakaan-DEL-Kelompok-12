@@ -1,11 +1,6 @@
-Fiersa Besari|Media Kita|Jejak Langkah|Novel
-Pramoedya Anantatoer|Gramedia|Bumi Manusia|Novel
-Purcell|Wiley|Calculus|Matematika
-Faqihza|Gramedia|Belajar C++|Programming
-Faqihza|Gramedia|Belajar Python|Programming
-Faqihza|Gramedia|Belajar Java|Programming
-Ucup Surucup|Kompas|Cara Sukses Mencari belut Di Sawah|Wiraswasta
-ser|ser|ser|ser
-sam|sam|sam|sam
-sa|sa|as|as
-wq|wq|wq|wq
+Rivael Sagala|Gramedia|Belajar Java|Programming
+Efran Lumbantoruan|Gramedia|Bumi Manusia|Novel
+Gladys Sitinjak|Erlangga|Calculus|Matematika
+Yen Rilin Hutasoit|Media Kita|Jejak Langkah|Novel
+Rivael Sagala|Hita hita|Budi daya ikan Hiu|Wiraswasta
+Gladys Sitinjak|Greenbook|Cara memasak indomi|Masakan

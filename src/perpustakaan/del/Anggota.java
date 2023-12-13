@@ -530,7 +530,7 @@ public class Anggota {
                     }
                     break;
                 default:
-                    System.err.println("\nInput anda tidak ditemukan\nSilahkan pilih [1-4]");
+                    System.err.println("\nInput anda tidak ditemukan\nSilahkan pilih [1-5]");
             }
             System.out.println("===== PILIHAN =====");
             System.out.println("1. Lanjut Melakukan Cari Buku ");
